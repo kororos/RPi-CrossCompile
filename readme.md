@@ -1,4 +1,4 @@
-## Steps to Cross-compile for RPi (including older, Armv6 architectures)
+## Steps to Cross-compile for RPi (including older, ARMv6 architectures)
 1. Get the cross compiler as described in [this repo](https://github.com/Pro/raspi-toolchain).
 2. Extract into `/opt/cross-pi-gcc`
 3. Get the toolchain.make file from the current repo.
